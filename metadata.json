@@ -1,0 +1,5 @@
+
+{
+  "name": "Notebook Splitter Pro",
+  "description": "A professional tool to decompose Jupyter Notebook (.ipynb) files into modular Python scripts. Automatically groups every three cells into a separate .py file with AI-powered naming suggestions."
+}
